@@ -457,6 +457,8 @@ MiniSumo-RC/
 - [ ] Pruebas de impacto.
 - [ ] Prueba de combate.
 
+Link imágenes CAD: https://drive.google.com/drive/folders/1OM1vpRx8z40wZyZMhOcF_yiaXYCE_M9d?usp=sharing
+
 ---
 
 ## 17. Autores
