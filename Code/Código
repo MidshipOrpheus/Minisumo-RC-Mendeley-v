@@ -9,7 +9,7 @@
 
 ## Descripción
 
-Firmware de control radiocontrolado para el minisumo **Kepler**. Lee un tren **PPM** de 8 canales proveniente de un receptor Radiolink **R8FM**, lo decodifica por interrupción, aplica una cadena de acondicionamiento (zona muerta, expo, suavizado) y lo convierte en dos salidas PWM diferenciales hacia los drivers TB6612FNG.
+Firmware de control radiocontrolado para el minisumo **Mendeleyév**. Lee un tren **PPM** de 8 canales proveniente de un receptor Radiolink **R8FM**, lo decodifica por interrupción, aplica una cadena de acondicionamiento (zona muerta, expo, suavizado) y lo convierte en dos salidas PWM diferenciales hacia los drivers TB6612FNG.
 
 El sistema es **RC en su estado actual**: no hay lectura de sensores ni lógica autónoma implementada, aunque el hardware ya reserva las entradas para sensores de línea. 
 
